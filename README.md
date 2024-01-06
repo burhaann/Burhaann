@@ -3,7 +3,7 @@
    [![Mail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&link=mailto:burhaann321@gmail.com)](mailto:burhaann321@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/burhaann_ashraf/)](https://instagram.com/burhaann_ashraf) 
    [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/burhaann_ashraf)](https://twitter.com/burhaann_ashraf)
-      [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://burhaann.vercel.app)</div>
+      [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://burhaann.vercel.app)
 <h1 align="center">Hi 👋, I'm Burhan Ahmad Beigh</h1>  
 <h3 align="center">A passionate Software Engineer with 1+ years of experience in Project building on the MERN Stack, seeking full-time full stack developer roles.</h3>  
   
