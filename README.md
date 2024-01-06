@@ -1,4 +1,4 @@
-<h1 aligh="center">
+
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burhaann/)](https://www.linkedin.com/in/burhaann/) 
    [![Mail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&link=mailto:burhaann321@gmail.com)](mailto:burhaann321@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/burhaann_ashraf/)](https://instagram.com/burhaann_ashraf) 
