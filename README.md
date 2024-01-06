@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Burhan Ahmad Beigh</h1>  
 <h3 align="center">A passionate Software Engineer with 1+ years of experience in Project building on the MERN Stack, seeking full-time full stack developer roles.</h3>  
   
-- 🌱 I’m currently learning **NextJS, ExpressJS, NodeJS, React, Redux**  
+- 🌱 I’m currently learning more about **NextJS, ExpressJS, NodeJS, React, Redux**  
   
 - 📫 How to reach me **burhaann321@gmail.com**  
   
